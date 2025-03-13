@@ -1,4 +1,10 @@
-#Week1
+# Week1
+
+## WSL 설치
 
 ![image](https://github.com/user-attachments/assets/bb52d248-5526-46cc-9867-a469fa9d69c6)
 
+- 윈도우 파워쉘을 관리자 모드로 실행하고 `wsl --install`을 입력합니다. <a href="https://learn.microsoft.com/ko-kr/windows/wsl/install">🧷</a>
+- WSL을 설치하고 실행합니다.
+- 사용자 계정명, 비밀번호를 입력합니다.
+- 루트 디렉토리로 이동하여 `ls -l` 명령어로 디렉토리 내부를 살펴봅니다.
